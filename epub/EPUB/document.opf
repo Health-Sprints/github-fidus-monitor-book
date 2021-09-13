@@ -2,13 +2,13 @@
 <package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="fidus" xml:lang="de-DE" prefix="cc: http://creativecommons.org/ns#">
   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
     <dc:identifier id="fidus">84</dc:identifier>
-    <dc:title>GitHub Test - Monitor Fidus to GitHub connection</dc:title>
+    <dc:title>Github Test</dc:title>
     <dc:creator>
       An Author
     </dc:creator>
     <dc:language>de-DE</dc:language>
-    <meta property="dcterms:modified">2021-09-04T09:26:12Z</meta>
-    <dc:date>2021-09-04</dc:date>
+    <meta property="dcterms:modified">2021-09-13T20:11:42Z</meta>
+    <dc:date>2021-09-13</dc:date>
   </metadata>
   <manifest>
     <item id="titlepage" href="titlepage.xhtml" media-type="application/xhtml+xml" />
