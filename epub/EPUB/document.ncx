@@ -25,6 +25,14 @@
       <navLabel><text>GHT-3</text></navLabel>
       <content src="document-3.xhtml#_3_0" />
     </navPoint>
+    <navPoint id="t_4_0-4">
+      <navLabel><text>GHT-1</text></navLabel>
+      <content src="document-4.xhtml#_4_0" />
+    </navPoint>
+    <navPoint id="t_5_0-5">
+      <navLabel><text>Test Doc 2: GitHub</text></navLabel>
+      <content src="document-5.xhtml#_5_0" />
+    </navPoint>
     <navPoint id="t2">
       <navLabel><text>Copyright</text></navLabel>
       <content src="copyright.xhtml#copyright" />
