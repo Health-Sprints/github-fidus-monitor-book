@@ -17,3 +17,7 @@ Documents used:
 4 Test Doc 2: GitHub			
 
 5 GHT-1
+
+## Observations
+
+* LaTeX has to have a file edited to make an output
