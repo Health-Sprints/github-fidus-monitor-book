@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="fidus" xml:lang="de-DE" prefix="cc: http://creativecommons.org/ns#">
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="fidus" xml:lang="en-US" prefix="cc: http://creativecommons.org/ns#">
   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
     <dc:identifier id="fidus">84</dc:identifier>
     <dc:title>Github Test</dc:title>
     <dc:creator>
       An Author
     </dc:creator>
-    <dc:language>de-DE</dc:language>
-    <meta property="dcterms:modified">2022-02-25T08:50:58Z</meta>
-    <dc:date>2022-02-25</dc:date>
+    <dc:language>en-US</dc:language>
+    <meta property="dcterms:modified">2023-11-24T12:36:58Z</meta>
+    <dc:date>2023-11-24</dc:date>
   </metadata>
   <manifest>
     <item id="cover" href="cover.xhtml" media-type="application/xhtml+xml" />
